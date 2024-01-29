@@ -1,8 +1,8 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h1>Hello World!</h1>
 <h2>Welcome to Tomcat Server!</h2>
-		<div>We'll automate this further to do the automation using <b><u>Jenkins.</u></b>.<br>
+		<div>We'll automate this further to do the automation using <b><u>Jenkins</u></b>.<br>
 			That will help us to seemingly deploy our applicaiton when changes are made without any disruption in services.</div>
 				<br>
 				<br>
