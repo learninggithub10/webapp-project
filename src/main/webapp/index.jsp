@@ -3,7 +3,7 @@
 <h2>Hello World!</h2>
 <h2>Welcome to Tomcat Server!</h2>
 		<div>We'll automate this further to do the automation using <b><u>Jenkins.</u></b>.<br>
-			That will help us to seemingly deploy our applicaiton when changes are made without any disruption in services.</div>
+			That will help us to deploy our applicaiton seemongly when changes are made without any disruption in services.</div>
 				<br>
 				<br>
 				<section>This is another section to the project</section>
