@@ -7,6 +7,8 @@
 				<br>
 				<br>
 				<section>This is another section to the project</section>
+<br>
+<br>
 <section>Yay! successful deployment of GitHub webhook.</section>
 </body>
 </html>
